@@ -1,5 +1,5 @@
 # USER
-src/secrets.h
+src/secret_credentials.py
 
 # VS Code
 .vscode/*
